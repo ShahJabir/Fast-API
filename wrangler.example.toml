@@ -1,0 +1,11 @@
+name = "fastapi"
+compatibility_date = "2024-04-02"
+
+[vars]
+UPTASH_REDIS_REST_TOKEN = ""
+UPTASH_REDIS_REST_URL = ""
+
+# wrangler.toml (wrangler v3.79.0^)
+[observability]
+enabled = true
+head_sampling_rate = 1
