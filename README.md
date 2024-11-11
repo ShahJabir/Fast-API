@@ -136,7 +136,7 @@ Backend :
 https://fastapi.shahjabir.workers.dev/api/search?q={query}
 
 Frontend:
-[]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d6cc4a68-e067-45f6-a5bc-e7fb3a9a368d/deploy-status)](https://app.netlify.com/sites/speedsearch/deploys)
 
 ## <a name="license">License 📄</a>
 
